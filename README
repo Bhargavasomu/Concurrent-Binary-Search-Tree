@@ -1,0 +1,2 @@
+To Run the program, the following command is used inside bin directory
+java -Xss1024M Executor
